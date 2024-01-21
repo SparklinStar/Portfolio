@@ -31,28 +31,28 @@ const imageAltText = "desktop with books and laptop";
  */
 const projectList = [
   {
-    title: "10 Things To Know About Azure Static Web Apps 🎉",
+    title: "Child Safety QR AI",
     description:
-      "Collaboration to create a beginner friendly article to help explain Azure Static Web Apps and tooling to get started.",
-    url: "https://dev.to/azure/10-things-to-know-about-azure-static-web-apps-3n4i",
+      "Innovatively designed to enhance child safety, the project involves a mobile app where users input child details, generating a personalized QR code stored in a PDF. Leveraged API integration for efficient data processing, resulting in a unique URL. Implemented AI configuration options for customizable QR code designs, showcasing adaptability and creativity in addressing real-world challenges.",
+    url: "https://youtu.be/q7eXclpiRsc",
   },
   {
-    title: "Web Development for Beginners",
+    title: "AI Dermatologist",
     description:
-      "Contributed sketch note imagery to accompany each lesson. These help provide visual representation of what is being taught.",
-    url: "https://github.com/microsoft/web-dev-for-beginners",
+      "Leveraged advanced AI technologies, including the GPT-3.5 API and a custom-trained model, to accurately classify ten different skin diseases with a remarkable 97 percent accuracy. The project's user-friendly interface allows individuals to upload images of skin conditions, receive disease predictions, and interact with the system by asking questions. Successfully designed and launched a dedicated website for the project, providing a platform for users to access comprehensive reports, recommended articles, and treatment information. This initiative showcases my proficiency in AI application development, problem-solving, and collaborative teamwork.",
+    url: "https://www.youtube.com/watch?v=eJbUr5cVQB4",
   },
   {
-    title: "My Resume Site",
+    title: "Whatsapp Seeker",
     description:
-      "Created from Microsoft's resume workshop and deployed to GitHub pages. Includes my experience and design abilities.",
-    url: "https://github.com/microsoft/workshop-library/tree/main/full/build-resume-website",
+      "Whatsapp Seeker is an innovative tool designed to analyze your Whatsapp chats effortlessly. Deployed on Streamlit, it efficiently converts exported Whatsapp chats into a pandas DataFrame, offering insightful visualizations such as monthly and daily timelines, emoji counts, popular words, and word clouds. Whether you're exploring personal messaging habits or delving into group dynamics, Whatsapp Seeker provides comprehensive analysis capabilities.",
+    url: "https://github.com/SparklinStar/Whatsapp_Seeker",
   },
   {
     title: "GitHub Codespaces and github.dev",
     description:
-      "Video interview to explain when to use GitHub.dev versus GitHub Codespaces, and how best to use each tool.",
-    url: "https://www.youtube.com/watch?v=c3hHhRME_XI",
+      "Medical waste classifier eliminates the problem of throwing wrong waste in wrong dustbin. The user only needs to throw the waste in central bin and then the waste gets classified using computer Vision and Deep Learning and then the waste gets disposed at the apt bin.",
+    url: "https://drive.google.com/file/d/1a8VVaX327jG0gDLqN2pHVnn7p-o-YYv_/view",
   },
 ];
 

@@ -31,12 +31,30 @@ const description =
  * passionate about, or enjoy,
  */
 const skillsList = [
-  "Web design",
-  "User experience",
-  "Inclusive design",
-  "Focus group testing",
-  "Mobile user interfaces",
-  "Graphic design",
+  "Python",
+  "C/C++",
+  "HTML",
+  "CSS",
+  "Bootstrap",
+  "Tailwind",
+  "Familiar with Javascript",
+  "Software Tools",
+  "Git",
+  "GitHub",
+  "VS Code",
+  "Streamlit",
+  "Heroku",
+  "Azure",
+  "Machine Learning",
+  "Web Development",
+  "Technical Writing",
+  "Markdown",
+  "Leadership",
+  "Team-building",
+  "Community Management",
+  "Operating Systems",
+  "Linux",
+  "Windows",
 ];
 
 /**
@@ -45,7 +63,7 @@ const skillsList = [
  * about you on a professional level.
  */
 const detailOrQuote =
-  "I am passionate about solving problems in new creative ways to drive innovation. By leveraging my UI/UX experience I continually look for new and better ways to make tech accessible by all.";
+  "Loves to read and teach code; Build projects at weekend; Daily coder";
 
 const About = () => {
   return (
