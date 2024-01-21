@@ -24,7 +24,7 @@ const imageAltText = "purple and blue abstract background";
  * Sort description that expands on your title on the Home component.
  */
 const description =
-  "I am also a student at JIS College of Engineering, pursuing a Bachelor of Technology degree in Computer Science. I am eager to learn new things every day, and I participate in various events and competitions to enhance my knowledge and skills. UI/UX student studying at Barnett Technical University. I enjoy creating unique and simplistic user interfaces in creative ways.";
+  "I am also a student at JIS College of Engineering, pursuing a Bachelor of Technology degree in Computer Science. I am eager to learn new things every day, and I participate in various events and competitions to enhance my knowledge and skills.";
 
 
 
